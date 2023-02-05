@@ -1,5 +1,3 @@
-# TODO (diogo.lima): Do real bubble sort implementation
-
 def _bubble_sort_list(list):
     sorted_list = list.copy()
 

@@ -1,5 +1,3 @@
-# TODO (diogo.lima): Do real quick sort implementation
-
 def _quick_sort_list(list):
     """Sort the list by using quicksort."""
     
