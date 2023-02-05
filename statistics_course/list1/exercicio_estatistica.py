@@ -1,5 +1,6 @@
 '''
 This program collects and shows sort algorithms statitcs
+Author: Diogo Nogueira Lima <diogo.ngr.lima@gmail.com>
 '''
 
 '''
