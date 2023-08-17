@@ -1,3 +1,4 @@
-# These exercises deal with the subjects: Sorting methods
+# These exercises deal with the subjects: 
+# Sorting methods
 
 
