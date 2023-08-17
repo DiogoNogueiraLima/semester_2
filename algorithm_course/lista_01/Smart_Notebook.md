@@ -112,5 +112,4 @@ if len(fila) == 0:
     print('Correto.')
 else:
     print(f'Incorreto, devido a capa na posição {fila.first.index}.')
-
 ```
