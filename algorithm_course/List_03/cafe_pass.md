@@ -38,7 +38,7 @@ Limites de Input
     30 <= MN <= 990
 
 ### Output
-
+RESPONSE - Onde pode ser UP Permission se o usuário receber a permissão ou NOT Permission, caso não esteja autorizado na semana.
 
 ## Código de resolução:
 ```python
