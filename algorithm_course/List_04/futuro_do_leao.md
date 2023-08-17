@@ -28,9 +28,6 @@ Onde a mediana deve ser retornada com 2 casas decimais de precisão.
 
 ## Código de resolução:
 ```python
-'''
-so criar uma nova lista a partir das duas listas e achar a mediana, parar no meio para usar menos memoria
-'''
 def merge(lista1, lista2, inicio=0, fim=None):
     if fim is None:
         fim = len(lista1) + len(lista2)
@@ -63,7 +60,7 @@ def merge(lista1, lista2, inicio=0, fim=None):
 
 
 
-# começando em si
+# começando o codigo em si
 salarios_sport = input().split()
 salarios_vasco = input().split()
 
@@ -73,8 +70,10 @@ lista_final = [None] * (metade_tamanho_lista_final//2 + 1)
 # output
 merge(salarios_sport, salarios_vasco)
 
-'''
+'''Exemplos de Inputs:
+
 17 25 42 150 159 213 395 456 456 486
+
 22 104 121 204 224 248 286 457 469 495
 '''
 
