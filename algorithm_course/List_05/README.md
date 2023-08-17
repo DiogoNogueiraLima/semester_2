@@ -1,4 +1,4 @@
 # These exercises deal with the subjects: 
 
-# (Graphs) Wide Search and Deep Search
+# (Graphs) Breadth-first search and Deep search
 
