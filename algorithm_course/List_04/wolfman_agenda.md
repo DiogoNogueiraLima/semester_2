@@ -38,15 +38,6 @@ O retorno do programa deve ser a quantidade de rodadas necessárias para que a p
 
 ## Código de resolução:
 ```python
-'''
-Remover o maior valor da sequência
-
-K = maximo - | minimo * constante |
-
-Se K for maior que zero, insere K na sequência
-
-O jogo deve acabar quando todos os números da sequência forem removidos.
-'''
 # heap de maximo
 def heapsort_max(arr):
     n = len(arr)
