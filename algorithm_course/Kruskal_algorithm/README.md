@@ -2,7 +2,7 @@
 
 Era necessário gerar uma árvore geradora mínima, para isso precisava saber com quantas arestas e quanto eram os custos das arestas para que fosse formado o menor número de árvores (se possível apenas uma só) possível para conectar maior número de nós com o menor número de arestas possíveis e essas conexões de arestas feitas com o menor peso possível. A partir dessa base de dados, entretanto não se sabia como realizar essa tarefa de forma que fosse otimizada, nesse ponto utilizamos do algoritmo de árvore geradora mínima de Kruskal, algoritmo que é conhecido por resolver problemas como esse de forma otimizada, para realizar essa tarefa e resolver esse problema.
 
-## sobre a base de dados:
+## Sobre a base de dados:
 
 Sobre a base de dados bio-SC-LC ela é um conjunto de grafos direcionados que representam um modelo de regulação genética em leucócitos e células estromais. Essa base de dados foi coletada pelo laboratório de sistemas biológicos da Universidade de Stanford, nos Estados Unidos. Cada grafo representa um conjunto de interações entre proteínas que regulam a expressão genética em células. As proteínas são representadas como nós do grafo e as interações entre elas são representadas como arestas. Essa base de dados é útil para estudos de biologia molecular e celular, pois fornece informações sobre as interações entre proteínas em células. Além disso, essa base de dados também pode ser usada para testar e desenvolver algoritmos de análise de redes complexas.
 
