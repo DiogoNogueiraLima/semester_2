@@ -11,10 +11,15 @@ Chegada a segunda-feira, cinco estagiários da biblioteca imaginária do CIn for
 Sendo cada um deles uma entidade incorpórea, uma inteligência artificial, um figmento de insônia, eles resolvem criar uma competição que analisa qual o método mais eficiente para ordenar cada pilha, através de algoritmos diferentes que foram estudados na matéria IF969.
 
   O primeiro estagiário, Caça-Rato, irá executar o método Bubble Sort.
+  
   O segundo estagiário, Grafite, irá executar o método Selection Sort.
+  
   O terceiro estagiário, Lacraia, irá executar o método Insertion Sort.
+  
   O quarto estagiário, Rivaldo, irá executar o método Shell Sort.
+  
   O quinto estagiário, Toninho, irá executar o método Quicksort (Hoare partition).
+
 Para cada rodada da competição, os estagiários devem ordenar a mesma pilha de livros com o método delegado a eles, contando a quantidade de vezes que eles fazem uma comparação entre dois livros e a quantidade de vezes que eles trocam a posição de dois livros. Ao final da rodada, é definido o vencedor da rodada de acordo com a quantidade total de ações realizadas (comparações + trocas) para ordenar a pilha.
 
 Após isso, os estagiários mais lentos tentam novamente ordenar a pilha, mas executando apenas a quantidade de ações que foram necessárias para o vencedor concluir a tarefa. Toninho, no entanto, não estava muito disposto a participar dessa etapa, então decidiu ficar de fora.
