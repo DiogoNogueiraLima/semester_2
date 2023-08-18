@@ -17,7 +17,10 @@ data_list_3col = [(data_list[i], data_list[i+1], data_list[i+2]) for i in range(
 # Cria o dataframe com 3 colunas
 df = pd.DataFrame(data_list_3col, columns=["Vertice 1", "Vertice 2", "Peso"])
 
+# Printando o data frame para vizualizaçao do usuário
 print(df)
+
+# Achando a quantidade de verticies da base de dados
 
 maior_valor_coluna_1 = df['Vertice 1'].max()
 maior_valor_coluna_2 = df['Vertice 2'].max()
@@ -28,6 +31,9 @@ if maior_valor_coluna_1 >= maior_valor_coluna_2:
 else:
   qntd_v = int(maior_valor_coluna_2 + 1)
   print(f'O número de vertices é de: {qntd_v} ')
+
+
+# Printando a quantidade de arestas da base de dados
 
 num_linhas = df.shape[0]
 print(f"O número de arestas no dataframe é:{num_linhas}")
