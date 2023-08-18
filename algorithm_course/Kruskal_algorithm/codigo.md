@@ -1,6 +1,6 @@
-# Conclusão:
+# Tatamento da base de dados:
 
-Primeiramente o código lê a nossa base de dados que contém uma lista de valores numéricos com os vértices conectados e seus pesos, e dessa forma os transforma em um dataframe com três colunas, mostrando os vértices conectados e logo após o seu peso. Em seguida, é verificado o maior valor em cada uma das colunas "Vértice 1" e "Vértice 2", para determinar o número total de vértices. E após número de arestas também é calculado a partir do número de linhas no dataframe.
+Primeiramente o código lê a base de dados que contém uma lista de valores numéricos com os vértices conectados e seus pesos, e dessa forma os transforma em um dataframe com três colunas, mostrando os vértices conectados e logo após o seu peso. Em seguida, é verificado o maior valor em cada uma das colunas "Vértice 1" e "Vértice 2", para determinar o número total de vértices. E após número de arestas também é calculado a partir do número de linhas no dataframe.
 
 ```python
 import pandas as pd
