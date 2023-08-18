@@ -1,6 +1,8 @@
 # Enunciado
 Gere k sequências de números aleatórios cada uma de tamanho n e as ordene, usando algoritmos de ordenação tais como o QuickSort, HeapSort, BubbleSort (ou algum outro de sua preferência). Analise os k resultados encontrados para cada algoritmo. Note que a variável de interesse é tempo de execução para cada algoritmo. Crie um estudo experimental e descreva como foi realizado o planejamento (CAMPOS, 2012). (2.0) Exemplo de resultado:
 
+![Screenshot](ultima.png)
+
 Como exemplo mostrado na Tabela, temos k sequências (k_1, k_2 e k_n) cada uma com 200, 500 e 450 números aleatórios (ou pseudoaleatórios) gerados. Os resultados (em tempos de execução) estão listados na tabela.
 
 
