@@ -188,7 +188,7 @@ print(custo)
 
 # Conclusão
 
-No final do código há uma verificação que faz a checagem e imprime uma mensagem de aviso caso alguns vértices não estejam conectados, indicando que o grafo é composto por mais de uma árvores. E após todo o processo, o código é finalizado printando como é feita a árvore geradora mínima (quais nós estão ligados e seu respectivo peso) e, por fim, o seu custo total da árvore (o peso de todas as arestas da(s) árvore(s) gerada(s)).
+No final do código há uma verificação que faz a checagem e imprime uma mensagem de aviso caso alguns vértices não estejam conectados, indicando que o grafo é composto por mais de uma árvores. E após todo o processo, o código é finalizado printando como é feita a árvore geradora mínima (organizada de forma crescente de peso juntamente com quais nós estão ligados e seu respectivo peso) e, por fim, o seu custo total da árvore (o peso de todas as arestas da(s) árvore(s) gerada(s)). 
 
 ![alt text](https://user-images.githubusercontent.com/115439066/261473633-761b43b8-b152-4246-8d8a-03117836287c.png)
 
