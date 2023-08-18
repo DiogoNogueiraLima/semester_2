@@ -39,7 +39,7 @@ num_linhas = df.shape[0]
 print(f"O número de arestas no dataframe é:{num_linhas}")
 qntd_a = int(num_linhas)
 ```
-# <-LEMBRAR DE COLOCAR PRINT>
+![alt text](https://user-images.githubusercontent.com/115439066/261471297-78ed2486-c0f0-4a0b-b993-406a15164337.png)
 
 Após isso no código é implementado duas funções para poder realizar o heap e logo depois é implementado o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo, usando um heap para armazenar as arestas. A cada iteração, a aresta de menor peso é removida do heap e é adicionada à árvore geradora mínima, desde que não forme um ciclo. O algoritmo continua até que todas as arestas sejam adicionadas à árvore ou até que não haja mais arestas disponíveis para serem adicionadas.
 
@@ -184,8 +184,6 @@ while count < (qntd_v - 1):
 print(custo)
 ```
 
-# <-LEMBRAR DE COLOCAR PRINT>
-
 No final do código, há uma verificação que faz a checagem e imprime uma mensagem de aviso caso alguns vértices não estejam conectados, indicando que o grafo é composto por mais de uma árvores. E após todo o processo, o código é finalizado printando como é feita a árvore geradora mínima (quais nós estão ligados e seu respectivo peso) e o seu custo total (o peso de todas as arestas da(s) árvore(s) gerada(s)).
 
-# <-LEMBRAR DE COLOCAR PRINT>
+![alt text](https://user-images.githubusercontent.com/115439066/261471994-b0dc259c-89d3-4082-89c4-f21217c06725.png)
