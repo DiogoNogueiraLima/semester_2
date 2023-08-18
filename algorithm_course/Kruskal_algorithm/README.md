@@ -4,6 +4,10 @@ Era necessário gerar uma árvore geradora mínima, para isso precisava saber co
 
 ## Sobre a base de dados:
 
+## Link para a base de dados: 
+
+https://networkrepository.com/bio-SC-LC.php
+
 Sobre a base de dados bio-SC-LC ela é um conjunto de grafos direcionados que representam um modelo de regulação genética em leucócitos e células estromais. Essa base de dados foi coletada pelo laboratório de sistemas biológicos da Universidade de Stanford, nos Estados Unidos. Cada grafo representa um conjunto de interações entre proteínas que regulam a expressão genética em células. As proteínas são representadas como nós do grafo e as interações entre elas são representadas como arestas. Essa base de dados é útil para estudos de biologia molecular e celular, pois fornece informações sobre as interações entre proteínas em células. Além disso, essa base de dados também pode ser usada para testar e desenvolver algoritmos de análise de redes complexas.
 
 ## O que é o algoritmo de Kruskal:
