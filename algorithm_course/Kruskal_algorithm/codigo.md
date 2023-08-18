@@ -20,7 +20,7 @@ df = pd.DataFrame(data_list_3col, columns=["Vertice 1", "Vertice 2", "Peso"])
 # Printando o data frame para vizualizaçao do usuário
 print(df)
 
-# Achando a quantidade de verticies da base de dados
+# Achando e printando a quantidade de verticies da base de dados
 
 maior_valor_coluna_1 = df['Vertice 1'].max()
 maior_valor_coluna_2 = df['Vertice 2'].max()
